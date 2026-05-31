@@ -1,0 +1,26 @@
+# ========================================
+# Archivos multimedia pesados
+# ========================================
+*.MOV
+*.MP4
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# Fotos (formatos pesados)
+*.HEIC
+*.heic
+
+# ========================================
+# Archivos del sistema
+# ========================================
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+
+# ========================================
+# Carpeta clasificados (si contiene media)
+# ========================================
+# Clasificados/

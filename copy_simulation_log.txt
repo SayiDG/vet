@@ -1,0 +1,541 @@
+--- SIMULACIÓN DE COPIADO ---
+ORIGEN: BMYN6525.MOV --> DESTINO: Consultas  Examen\2024\November
+ORIGEN: CQCZ0943.MOV --> DESTINO: Consultas  Examen\2024\November
+ORIGEN: DMBQ7297.MOV --> DESTINO: Consultas  Examen\2024\November
+ORIGEN: EMLK7829.MOV --> DESTINO: Consultas  Examen\2024\November
+ORIGEN: EWIS7235.MOV --> DESTINO: Consultas  Examen\2024\November
+ORIGEN: FEIB6592.MOV --> DESTINO: Consultas  Examen\2024\November
+ORIGEN: FJDY5251.MOV --> DESTINO: Consultas  Examen\2024\November
+ORIGEN: FSBJ9501.MOV --> DESTINO: Personal  Selfie\2025\September
+ORIGEN: GH012042.MP4 --> DESTINO: Consultas  Examen\2025\September
+ORIGEN: GH012043.MP4 --> DESTINO: Consultas  Examen\2025\December
+ORIGEN: GH012044.MP4 --> DESTINO: Consultas  Examen\2025\December
+ORIGEN: GH012045.MP4 --> DESTINO: Consultas  Examen\2025\December
+ORIGEN: GH012046.MP4 --> DESTINO: Consultas  Examen\2025\December
+ORIGEN: GH012047.MP4 --> DESTINO: Consultas  Examen\2025\December
+ORIGEN: GH012048.MP4 --> DESTINO: Consultas  Examen\2025\December
+ORIGEN: GH012049.MP4 --> DESTINO: Consultas  Examen\2025\December
+ORIGEN: GH012055.MP4 --> DESTINO: Otro\2025\December
+ORIGEN: GH012056.MP4 --> DESTINO: Personal  Selfie\2025\December
+ORIGEN: IBTV0910.MOV --> DESTINO: Personal  Selfie\2025\July
+ORIGEN: IJIC2554.MP4 --> DESTINO: Especies - Perro\2025\November
+ORIGEN: IMG_2142.MOV --> DESTINO: Cirugías\2024\October
+ORIGEN: IMG_2204.MOV --> DESTINO: Consultas  Examen\2024\October
+ORIGEN: IMG_2211.MOV --> DESTINO: Consultas  Examen\2024\November
+ORIGEN: IMG_2226.MOV --> DESTINO: Consultas  Examen\2024\October
+ORIGEN: IMG_2266.MOV --> DESTINO: Cirugías\2024\November
+ORIGEN: IMG_2581.MOV --> DESTINO: Especies - Perro\2024\November
+ORIGEN: IMG_2594.MOV --> DESTINO: Personal  Selfie\2024\November
+ORIGEN: IMG_2626.MOV --> DESTINO: Personal  Selfie\2024\November
+ORIGEN: IMG_2627.MOV --> DESTINO: Especies - Perro\2024\November
+ORIGEN: IMG_2654.MOV --> DESTINO: Consultas  Examen\2024\November
+ORIGEN: IMG_2671.MOV --> DESTINO: Especies - Perro\2024\November
+ORIGEN: IMG_2673.MOV --> DESTINO: Especies - Perro\2024\November
+ORIGEN: IMG_2692.MOV --> DESTINO: Promocional\2024\November
+ORIGEN: IMG_2738.MOV --> DESTINO: Instalaciones\2024\November
+ORIGEN: IMG_2739.MOV --> DESTINO: Instalaciones\2024\November
+ORIGEN: IMG_2742.MOV --> DESTINO: Cirugías\2025\January
+ORIGEN: IMG_2829.MOV --> DESTINO: Personal  Selfie\2024\November
+ORIGEN: IMG_2830.MOV --> DESTINO: Consultas  Examen\2024\November
+ORIGEN: IMG_2831.MOV --> DESTINO: Personal  Selfie\2024\November
+ORIGEN: IMG_2836.MOV --> DESTINO: Especies - Perro\2024\November
+ORIGEN: IMG_2837.MOV --> DESTINO: Especies - Perro\2024\November
+ORIGEN: IMG_2857.MOV --> DESTINO: Especies - Perro\2024\November
+ORIGEN: IMG_2858.MOV --> DESTINO: Consultas  Examen\2024\November
+ORIGEN: IMG_2861.MOV --> DESTINO: Personal  Selfie\2024\November
+ORIGEN: IMG_2898.MOV --> DESTINO: Cirugías\2024\November
+ORIGEN: IMG_3034.MOV --> DESTINO: Otro\2024\November
+ORIGEN: IMG_3039.MOV --> DESTINO: Especies - Gato\2024\November
+ORIGEN: IMG_3046.MOV --> DESTINO: Especies - Perro\2024\November
+ORIGEN: IMG_3061.MOV --> DESTINO: Personal  Selfie\2024\November
+ORIGEN: IMG_3062.MOV --> DESTINO: Personal  Selfie\2024\November
+ORIGEN: IMG_3063.MOV --> DESTINO: Especies - Perro\2024\November
+ORIGEN: IMG_3064.MOV --> DESTINO: Especies - Perro\2024\November
+ORIGEN: IMG_3065.MOV --> DESTINO: Consultas  Examen\2024\November
+ORIGEN: IMG_3163.MOV --> DESTINO: Personal  Selfie\2024\December
+ORIGEN: IMG_3164.MOV --> DESTINO: Consultas  Examen\2024\December
+ORIGEN: IMG_3165.MOV --> DESTINO: Personal  Selfie\2024\December
+ORIGEN: IMG_3166.MOV --> DESTINO: Personal  Selfie\2024\December
+ORIGEN: IMG_3234.MOV --> DESTINO: Especies - Perro\2024\December
+ORIGEN: IMG_3251.MOV --> DESTINO: Personal  Selfie\2024\December
+ORIGEN: IMG_3252.MOV --> DESTINO: Consultas  Examen\2024\December
+ORIGEN: IMG_3709.MOV --> DESTINO: Consultas  Examen\2025\April
+ORIGEN: IMG_3730.MOV --> DESTINO: Consultas  Examen\2024\December
+ORIGEN: IMG_3731.MOV --> DESTINO: Especies - Perro\2024\December
+ORIGEN: IMG_3755.MOV --> DESTINO: Otro\2025\January
+ORIGEN: IMG_3929.MOV --> DESTINO: Especies - Perro\2025\January
+ORIGEN: IMG_3934.MOV --> DESTINO: Especies - Perro\2025\January
+ORIGEN: IMG_3996.MOV --> DESTINO: Consultas  Examen\2025\January
+ORIGEN: IMG_4185.HEIC --> DESTINO: Personal  Selfie\2025\September
+ORIGEN: IMG_4185.MOV --> DESTINO: Personal  Selfie\2025\September
+ORIGEN: IMG_4187.HEIC --> DESTINO: Personal  Selfie\2025\September
+ORIGEN: IMG_4188.HEIC --> DESTINO: Personal  Selfie\2025\September
+ORIGEN: IMG_4188.MOV --> DESTINO: Personal  Selfie\2025\September
+ORIGEN: IMG_4189.HEIC --> DESTINO: Personal  Selfie\2025\September
+ORIGEN: IMG_4189.MOV --> DESTINO: Personal  Selfie\2025\September
+ORIGEN: IMG_4332.MOV --> DESTINO: Consultas  Examen\2025\January
+ORIGEN: IMG_4336.MOV --> DESTINO: Consultas  Examen\2025\January
+ORIGEN: IMG_4337.MOV --> DESTINO: Consultas  Examen\2025\January
+ORIGEN: IMG_4338.MOV --> DESTINO: Cirugías\2025\January
+ORIGEN: IMG_4339.MOV --> DESTINO: Consultas  Examen\2025\January
+ORIGEN: IMG_4392.MOV --> DESTINO: Desconocido\2025\January
+ORIGEN: IMG_4402.MOV --> DESTINO: Consultas  Examen\2025\January
+ORIGEN: IMG_4403.MOV --> DESTINO: Cirugías\2025\January
+ORIGEN: IMG_4405.MOV --> DESTINO: Otro\2025\January
+ORIGEN: IMG_4407.MOV --> DESTINO: Consultas  Examen\2025\January
+ORIGEN: IMG_4409.MOV --> DESTINO: Cirugías\2025\January
+ORIGEN: IMG_4410.MOV --> DESTINO: Cirugías\2025\January
+ORIGEN: IMG_4411.MOV --> DESTINO: Cirugías\2025\January
+ORIGEN: IMG_4412.MOV --> DESTINO: Cirugías\2025\January
+ORIGEN: IMG_4413.MOV --> DESTINO: Cirugías\2025\January
+ORIGEN: IMG_4414.MOV --> DESTINO: Cirugías\2025\January
+ORIGEN: IMG_4415.MOV --> DESTINO: Cirugías\2025\January
+ORIGEN: IMG_4416.MOV --> DESTINO: Cirugías\2025\January
+ORIGEN: IMG_4417.MOV --> DESTINO: Cirugías\2025\January
+ORIGEN: IMG_4418.MOV --> DESTINO: Cirugías\2025\January
+ORIGEN: IMG_4437.MOV --> DESTINO: Consultas  Examen\2025\January
+ORIGEN: IMG_4439.MOV --> DESTINO: Personal  Selfie\2025\January
+ORIGEN: IMG_4497.MOV --> DESTINO: Cirugías\2025\January
+ORIGEN: IMG_4498.MOV --> DESTINO: Consultas  Examen\2025\January
+ORIGEN: IMG_4500.MOV --> DESTINO: Consultas  Examen\2025\January
+ORIGEN: IMG_4505.MOV --> DESTINO: Personal  Selfie\2025\February
+ORIGEN: IMG_4506.MOV --> DESTINO: Personal  Selfie\2025\February
+ORIGEN: IMG_4507.MOV --> DESTINO: Especies - Gato\2025\February
+ORIGEN: IMG_4509.MOV --> DESTINO: Consultas  Examen\2025\February
+ORIGEN: IMG_4520.MOV --> DESTINO: Cirugías\2025\February
+ORIGEN: IMG_4526.MOV --> DESTINO: Cirugías\2025\February
+ORIGEN: IMG_4539.MOV --> DESTINO: Consultas  Examen\2025\February
+ORIGEN: IMG_4560.MOV --> DESTINO: Consultas  Examen\2025\February
+ORIGEN: IMG_4561.MOV --> DESTINO: Cirugías\2025\February
+ORIGEN: IMG_4564.MOV --> DESTINO: Personal  Selfie\2025\February
+ORIGEN: IMG_4565.MOV --> DESTINO: Especies - Perro\2025\February
+ORIGEN: IMG_4570.MOV --> DESTINO: Consultas  Examen\2025\February
+ORIGEN: IMG_4583.MOV --> DESTINO: Consultas  Examen\2025\February
+ORIGEN: IMG_4584.MOV --> DESTINO: Desconocido\2025\February
+ORIGEN: IMG_4585.MOV --> DESTINO: Consultas  Examen\2025\February
+ORIGEN: IMG_4586.MOV --> DESTINO: Consultas  Examen\2025\February
+ORIGEN: IMG_4588.MOV --> DESTINO: Especies - Perro\2025\February
+ORIGEN: IMG_4605.MOV --> DESTINO: Especies - Perro\2025\February
+ORIGEN: IMG_4606.MOV --> DESTINO: Desconocido\2025\February
+ORIGEN: IMG_4607.MOV --> DESTINO: Consultas  Examen\2025\February
+ORIGEN: IMG_4611.MOV --> DESTINO: Especies - Perro\2025\February
+ORIGEN: IMG_4614.MOV --> DESTINO: Personal  Selfie\2025\February
+ORIGEN: IMG_4615.MOV --> DESTINO: Personal  Selfie\2025\February
+ORIGEN: IMG_4616.MOV --> DESTINO: Personal  Selfie\2025\February
+ORIGEN: IMG_4619.MOV --> DESTINO: Personal  Selfie\2025\February
+ORIGEN: IMG_4670.MOV --> DESTINO: Consultas  Examen\2025\February
+ORIGEN: IMG_4671.MOV --> DESTINO: Consultas  Examen\2025\February
+ORIGEN: IMG_4672.MOV --> DESTINO: Consultas  Examen\2025\February
+ORIGEN: IMG_4673.MOV --> DESTINO: Consultas  Examen\2025\February
+ORIGEN: IMG_4685.MOV --> DESTINO: Consultas  Examen\2025\February
+ORIGEN: IMG_4726.MOV --> DESTINO: Especies - Perro\2025\February
+ORIGEN: IMG_4817.MOV --> DESTINO: Personal  Selfie\2025\March
+ORIGEN: IMG_4819.MOV --> DESTINO: Personal  Selfie\2025\March
+ORIGEN: IMG_4820.MOV --> DESTINO: Personal  Selfie\2025\March
+ORIGEN: IMG_4824.MOV --> DESTINO: Consultas  Examen\2025\March
+ORIGEN: IMG_4825.MOV --> DESTINO: Consultas  Examen\2025\March
+ORIGEN: IMG_4827.MOV --> DESTINO: Consultas  Examen\2025\March
+ORIGEN: IMG_4828.MOV --> DESTINO: Consultas  Examen\2025\March
+ORIGEN: IMG_4830.MOV --> DESTINO: Cirugías\2025\March
+ORIGEN: IMG_4844.MOV --> DESTINO: Especies - Perro\2025\March
+ORIGEN: IMG_4904.MOV --> DESTINO: Consultas  Examen\2025\March
+ORIGEN: IMG_4979.MOV --> DESTINO: Especies - Perro\2025\March
+ORIGEN: IMG_5112.MOV --> DESTINO: Cirugías\2025\March
+ORIGEN: IMG_5113.MOV --> DESTINO: Cirugías\2025\March
+ORIGEN: IMG_5114.MOV --> DESTINO: Cirugías\2025\March
+ORIGEN: IMG_5116.MOV --> DESTINO: Cirugías\2025\March
+ORIGEN: IMG_5117.MOV --> DESTINO: Cirugías\2025\March
+ORIGEN: IMG_5118.MOV --> DESTINO: Cirugías\2025\March
+ORIGEN: IMG_5225.MOV --> DESTINO: Personal  Selfie\2025\April
+ORIGEN: IMG_5229.MOV --> DESTINO: Promocional\2025\April
+ORIGEN: IMG_5302.MOV --> DESTINO: Especies - Perro\2025\April
+ORIGEN: IMG_5303.MOV --> DESTINO: Especies - Perro\2025\April
+ORIGEN: IMG_5304.MOV --> DESTINO: Especies - Perro\2025\April
+ORIGEN: IMG_5329.MOV --> DESTINO: Consultas  Examen\2025\April
+ORIGEN: IMG_5339.MOV --> DESTINO: Otro\2025\April
+ORIGEN: IMG_5340.MOV --> DESTINO: Promocional\2025\April
+ORIGEN: IMG_5508.MOV --> DESTINO: Consultas  Examen\2025\April
+ORIGEN: IMG_5728.MOV --> DESTINO: Consultas  Examen\2025\April
+ORIGEN: IMG_5734.HEIC --> DESTINO: Personal  Selfie\2025\April
+ORIGEN: IMG_5734.MOV --> DESTINO: Personal  Selfie\2025\April
+ORIGEN: IMG_5736.HEIC --> DESTINO: Personal  Selfie\2025\April
+ORIGEN: IMG_5736.MOV --> DESTINO: Personal  Selfie\2025\April
+ORIGEN: IMG_5739.HEIC --> DESTINO: Personal  Selfie\2025\April
+ORIGEN: IMG_5739.MOV --> DESTINO: Personal  Selfie\2025\April
+ORIGEN: IMG_5741.HEIC --> DESTINO: Personal  Selfie\2025\April
+ORIGEN: IMG_5741.MOV --> DESTINO: Personal  Selfie\2025\April
+ORIGEN: IMG_5743.MOV --> DESTINO: Personal  Selfie\2025\April
+ORIGEN: IMG_5793.MOV --> DESTINO: Consultas  Examen\2025\April
+ORIGEN: IMG_5794.JPG --> DESTINO: Personal  Selfie\2025\April
+ORIGEN: IMG_5795.MOV --> DESTINO: Personal  Selfie\2025\April
+ORIGEN: IMG_5796.MOV --> DESTINO: Consultas  Examen\2025\April
+ORIGEN: IMG_5797.MOV --> DESTINO: Consultas  Examen\2025\April
+ORIGEN: IMG_5798.MOV --> DESTINO: Consultas  Examen\2025\April
+ORIGEN: IMG_5799.MOV --> DESTINO: Instalaciones\2025\April
+ORIGEN: IMG_5800.MOV --> DESTINO: Otro\2025\April
+ORIGEN: IMG_5801.MOV --> DESTINO: Consultas  Examen\2025\April
+ORIGEN: IMG_5802.MOV --> DESTINO: Consultas  Examen\2025\April
+ORIGEN: IMG_5803.MOV --> DESTINO: Consultas  Examen\2025\April
+ORIGEN: IMG_5804.MOV --> DESTINO: Personal  Selfie\2025\April
+ORIGEN: IMG_5815.MOV --> DESTINO: Cirugías\2025\April
+ORIGEN: IMG_5817.MOV --> DESTINO: Cirugías\2025\April
+ORIGEN: IMG_5818.MOV --> DESTINO: Cirugías\2025\April
+ORIGEN: IMG_5819.MOV --> DESTINO: Consultas  Examen\2025\April
+ORIGEN: IMG_5829.HEIC --> DESTINO: Personal  Selfie\2025\April
+ORIGEN: IMG_5829.MOV --> DESTINO: Personal  Selfie\2025\April
+ORIGEN: IMG_5830.HEIC --> DESTINO: Personal  Selfie\2025\April
+ORIGEN: IMG_5830.MOV --> DESTINO: Personal  Selfie\2025\April
+ORIGEN: IMG_5831.HEIC --> DESTINO: Personal  Selfie\2025\April
+ORIGEN: IMG_5831.MOV --> DESTINO: Personal  Selfie\2025\April
+ORIGEN: IMG_5832.HEIC --> DESTINO: Personal  Selfie\2025\April
+ORIGEN: IMG_5832.MOV --> DESTINO: Personal  Selfie\2025\April
+ORIGEN: IMG_5833.MOV --> DESTINO: Cirugías\2025\April
+ORIGEN: IMG_5834.MOV --> DESTINO: Cirugías\2025\April
+ORIGEN: IMG_5842.MOV --> DESTINO: Instalaciones\2025\April
+ORIGEN: IMG_5883.MOV --> DESTINO: Personal  Selfie\2025\April
+ORIGEN: IMG_5890.MOV --> DESTINO: Consultas  Examen\2025\April
+ORIGEN: IMG_5902.MOV --> DESTINO: Especies - Perro\2025\April
+ORIGEN: IMG_5903.MOV --> DESTINO: Personal  Selfie\2025\April
+ORIGEN: IMG_5907.MOV --> DESTINO: Especies - Perro\2025\April
+ORIGEN: IMG_5924.MOV --> DESTINO: Consultas  Examen\2025\April
+ORIGEN: IMG_5925.MOV --> DESTINO: Consultas  Examen\2025\April
+ORIGEN: IMG_5926.MOV --> DESTINO: Cirugías\2025\April
+ORIGEN: IMG_5937.MOV --> DESTINO: Consultas  Examen\2025\April
+ORIGEN: IMG_5947.HEIC --> DESTINO: Promocional\2025\April
+ORIGEN: IMG_5948.MOV --> DESTINO: Personal  Selfie\2025\April
+ORIGEN: IMG_5949.MOV --> DESTINO: Personal  Selfie\2025\April
+ORIGEN: IMG_5950.MOV --> DESTINO: Personal  Selfie\2025\April
+ORIGEN: IMG_5951.MOV --> DESTINO: Personal  Selfie\2025\April
+ORIGEN: IMG_5961.MOV --> DESTINO: Consultas  Examen\2025\May
+ORIGEN: IMG_5962.MOV --> DESTINO: Consultas  Examen\2025\May
+ORIGEN: IMG_5963.MOV --> DESTINO: Personal  Selfie\2025\May
+ORIGEN: IMG_5974.MOV --> DESTINO: Especies - Perro\2025\May
+ORIGEN: IMG_5975.MOV --> DESTINO: Especies - Perro\2025\May
+ORIGEN: IMG_5981.HEIC --> DESTINO: Especies - Perro\2025\May
+ORIGEN: IMG_5982.HEIC --> DESTINO: Especies - Perro\2025\May
+ORIGEN: IMG_5983.HEIC --> DESTINO: Especies - Perro\2025\May
+ORIGEN: IMG_5995.HEIC --> DESTINO: Personal  Selfie\2025\May
+ORIGEN: IMG_6002.MOV --> DESTINO: Especies - Perro\2025\May
+ORIGEN: IMG_6004.MOV --> DESTINO: Desconocido\2025\May
+ORIGEN: IMG_6005.MOV --> DESTINO: Otro\2025\May
+ORIGEN: IMG_6019.MOV --> DESTINO: Cirugías\2025\May
+ORIGEN: IMG_6021.MOV --> DESTINO: Consultas  Examen\2025\May
+ORIGEN: IMG_6022.MOV --> DESTINO: Cirugías\2025\May
+ORIGEN: IMG_6026.MOV --> DESTINO: Consultas  Examen\2025\May
+ORIGEN: IMG_6027.MOV --> DESTINO: Personal  Selfie\2025\May
+ORIGEN: IMG_6028.MOV --> DESTINO: Personal  Selfie\2025\May
+ORIGEN: IMG_6033.MOV --> DESTINO: Personal  Selfie\2025\May
+ORIGEN: IMG_6037.MOV --> DESTINO: Personal  Selfie\2025\May
+ORIGEN: IMG_6059.MOV --> DESTINO: Cirugías\2025\May
+ORIGEN: IMG_6069.MOV --> DESTINO: Consultas  Examen\2025\May
+ORIGEN: IMG_6073.MOV --> DESTINO: Cirugías\2025\May
+ORIGEN: IMG_6074.MOV --> DESTINO: Especies - Perro\2025\May
+ORIGEN: IMG_6075.MOV --> DESTINO: Especies - Perro\2025\May
+ORIGEN: IMG_6076.MOV --> DESTINO: Especies - Perro\2025\May
+ORIGEN: IMG_6080.MOV --> DESTINO: Personal  Selfie\2025\May
+ORIGEN: IMG_6084.MOV --> DESTINO: Personal  Selfie\2025\May
+ORIGEN: IMG_6085.HEIC --> DESTINO: Cirugías\2025\May
+ORIGEN: IMG_6085.MOV --> DESTINO: Consultas  Examen\2025\May
+ORIGEN: IMG_6086.HEIC --> DESTINO: Cirugías\2025\May
+ORIGEN: IMG_6086.MOV --> DESTINO: Consultas  Examen\2025\May
+ORIGEN: IMG_6087.HEIC --> DESTINO: Cirugías\2025\May
+ORIGEN: IMG_6087.MOV --> DESTINO: Consultas  Examen\2025\May
+ORIGEN: IMG_6088.HEIC --> DESTINO: Cirugías\2025\May
+ORIGEN: IMG_6088.MOV --> DESTINO: Consultas  Examen\2025\May
+ORIGEN: IMG_6089.HEIC --> DESTINO: Cirugías\2025\May
+ORIGEN: IMG_6089.MOV --> DESTINO: Personal  Selfie\2025\May
+ORIGEN: IMG_6090.HEIC --> DESTINO: Cirugías\2025\May
+ORIGEN: IMG_6096.MOV --> DESTINO: Personal  Selfie\2025\May
+ORIGEN: IMG_6097.MOV --> DESTINO: Personal  Selfie\2025\May
+ORIGEN: IMG_6099.MOV --> DESTINO: Consultas  Examen\2025\May
+ORIGEN: IMG_6100.MOV --> DESTINO: Cirugías\2025\May
+ORIGEN: IMG_6102.MOV --> DESTINO: Especies - Perro\2025\May
+ORIGEN: IMG_6103.MOV --> DESTINO: Personal  Selfie\2025\May
+ORIGEN: IMG_6104.MOV --> DESTINO: Especies - Perro\2025\May
+ORIGEN: IMG_6125.MOV --> DESTINO: Personal  Selfie\2025\May
+ORIGEN: IMG_6126.MOV --> DESTINO: Consultas  Examen\2025\May
+ORIGEN: IMG_6127.MOV --> DESTINO: Especies - Perro\2025\May
+ORIGEN: IMG_6129.MOV --> DESTINO: Especies - Perro\2025\May
+ORIGEN: IMG_6136.MOV --> DESTINO: Consultas  Examen\2025\May
+ORIGEN: IMG_6137.HEIC --> DESTINO: Cirugías\2025\May
+ORIGEN: IMG_6142.HEIC --> DESTINO: Personal  Selfie\2025\May
+ORIGEN: IMG_6143.MOV --> DESTINO: Personal  Selfie\2025\May
+ORIGEN: IMG_6144.HEIC --> DESTINO: Personal  Selfie\2025\May
+ORIGEN: IMG_6145.HEIC --> DESTINO: Personal  Selfie\2025\May
+ORIGEN: IMG_6148.MOV --> DESTINO: Personal  Selfie\2025\May
+ORIGEN: IMG_6149.MOV --> DESTINO: Personal  Selfie\2025\May
+ORIGEN: IMG_6150.MOV --> DESTINO: Personal  Selfie\2025\May
+ORIGEN: IMG_6224.MOV --> DESTINO: Otro\2025\May
+ORIGEN: IMG_6225.MOV --> DESTINO: Consultas  Examen\2025\May
+ORIGEN: IMG_6229.MOV --> DESTINO: Personal  Selfie\2025\May
+ORIGEN: IMG_6236.MOV --> DESTINO: Especies - Perro\2025\May
+ORIGEN: IMG_6237.MOV --> DESTINO: Consultas  Examen\2025\May
+ORIGEN: IMG_6238.MOV --> DESTINO: Especies - Perro\2025\May
+ORIGEN: IMG_6239.MOV --> DESTINO: Personal  Selfie\2025\May
+ORIGEN: IMG_6240.MOV --> DESTINO: Personal  Selfie\2025\May
+ORIGEN: IMG_6241.MOV --> DESTINO: Especies - Perro\2025\May
+ORIGEN: IMG_6242.MOV --> DESTINO: Especies - Gato\2025\May
+ORIGEN: IMG_6253.MOV --> DESTINO: Consultas  Examen\2025\May
+ORIGEN: IMG_6254.MOV --> DESTINO: Consultas  Examen\2025\May
+ORIGEN: IMG_6255.MOV --> DESTINO: Cirugías\2025\May
+ORIGEN: IMG_6262.HEIC --> DESTINO: Cirugías\2025\May
+ORIGEN: IMG_6263.HEIC --> DESTINO: Cirugías\2025\May
+ORIGEN: IMG_6264.HEIC --> DESTINO: Cirugías\2025\May
+ORIGEN: IMG_6265.HEIC --> DESTINO: Instalaciones\2025\May
+ORIGEN: IMG_6266.MOV --> DESTINO: Consultas  Examen\2025\May
+ORIGEN: IMG_6270.MOV --> DESTINO: Personal  Selfie\2025\May
+ORIGEN: IMG_6271.MOV --> DESTINO: Especies - Perro\2025\May
+ORIGEN: IMG_6280.MOV --> DESTINO: Consultas  Examen\2025\May
+ORIGEN: IMG_6281.MOV --> DESTINO: Consultas  Examen\2025\May
+ORIGEN: IMG_6299.MOV --> DESTINO: Consultas  Examen\2025\May
+ORIGEN: IMG_6300.MOV --> DESTINO: Cirugías\2025\May
+ORIGEN: IMG_6301.MOV --> DESTINO: Consultas  Examen\2025\May
+ORIGEN: IMG_6314.MOV --> DESTINO: Especies - Gato\2025\May
+ORIGEN: IMG_6317.MOV --> DESTINO: Especies - Gato\2025\May
+ORIGEN: IMG_6318.MOV --> DESTINO: Desconocido\2025\May
+ORIGEN: IMG_6319.MOV --> DESTINO: Consultas  Examen\2025\May
+ORIGEN: IMG_6321.MOV --> DESTINO: Cirugías\2025\May
+ORIGEN: IMG_6330.MOV --> DESTINO: Consultas  Examen\2025\May
+ORIGEN: IMG_6364.MOV --> DESTINO: Personal  Selfie\2025\May
+ORIGEN: IMG_6365.MOV --> DESTINO: Consultas  Examen\2025\May
+ORIGEN: IMG_6373.MOV --> DESTINO: Consultas  Examen\2025\May
+ORIGEN: IMG_6386.HEIC --> DESTINO: Personal  Selfie\2025\May
+ORIGEN: IMG_6390.MOV --> DESTINO: Personal  Selfie\2025\May
+ORIGEN: IMG_6394.MOV --> DESTINO: Consultas  Examen\2025\May
+ORIGEN: IMG_6395.MOV --> DESTINO: Consultas  Examen\2025\May
+ORIGEN: IMG_6396.MOV --> DESTINO: Personal  Selfie\2025\May
+ORIGEN: IMG_6404.MOV --> DESTINO: Personal  Selfie\2025\May
+ORIGEN: IMG_6406.MOV --> DESTINO: Instalaciones\2025\May
+ORIGEN: IMG_6409.MOV --> DESTINO: Personal  Selfie\2025\May
+ORIGEN: IMG_6410.MOV --> DESTINO: Consultas  Examen\2025\May
+ORIGEN: IMG_6411.MOV --> DESTINO: Consultas  Examen\2025\May
+ORIGEN: IMG_6437.MOV --> DESTINO: Especies - Perro\2025\June
+ORIGEN: IMG_6451.MOV --> DESTINO: Especies - Gato\2025\June
+ORIGEN: IMG_6452.MOV --> DESTINO: Especies - Gato\2025\June
+ORIGEN: IMG_6463.MOV --> DESTINO: Personal  Selfie\2025\June
+ORIGEN: IMG_6464.MOV --> DESTINO: Consultas  Examen\2025\June
+ORIGEN: IMG_6466.MOV --> DESTINO: Personal  Selfie\2025\June
+ORIGEN: IMG_6467.MOV --> DESTINO: Personal  Selfie\2025\June
+ORIGEN: IMG_6468.MOV --> DESTINO: Consultas  Examen\2025\June
+ORIGEN: IMG_6471.MOV --> DESTINO: Especies - Perro\2025\June
+ORIGEN: IMG_6473.MOV --> DESTINO: Consultas  Examen\2025\June
+ORIGEN: IMG_6474.MOV --> DESTINO: Consultas  Examen\2025\June
+ORIGEN: IMG_6476.HEIC --> DESTINO: Consultas  Examen\2025\June
+ORIGEN: IMG_6477.HEIC --> DESTINO: Otro\2025\June
+ORIGEN: IMG_6478.MOV --> DESTINO: Consultas  Examen\2025\June
+ORIGEN: IMG_6479.HEIC --> DESTINO: Consultas  Examen\2025\June
+ORIGEN: IMG_6480.HEIC --> DESTINO: Otro\2025\June
+ORIGEN: IMG_6481.HEIC --> DESTINO: Personal  Selfie\2025\June
+ORIGEN: IMG_6482.HEIC --> DESTINO: Personal  Selfie\2025\June
+ORIGEN: IMG_6529.MOV --> DESTINO: Consultas  Examen\2025\June
+ORIGEN: IMG_6530.MOV --> DESTINO: Personal  Selfie\2025\June
+ORIGEN: IMG_6531.MOV --> DESTINO: Personal  Selfie\2025\June
+ORIGEN: IMG_6588.JPG --> DESTINO: Especies - Perro\2025\June
+ORIGEN: IMG_6589.JPG --> DESTINO: Especies - Perro\2025\June
+ORIGEN: IMG_6590.JPG --> DESTINO: Especies - Perro\2025\June
+ORIGEN: IMG_6592.MOV --> DESTINO: Especies - Perro\2025\June
+ORIGEN: IMG_6601.MOV --> DESTINO: Especies - Perro\2025\June
+ORIGEN: IMG_6603.MOV --> DESTINO: Consultas  Examen\2025\June
+ORIGEN: IMG_6605.MOV --> DESTINO: Consultas  Examen\2025\June
+ORIGEN: IMG_6609.MOV --> DESTINO: Cirugías\2025\June
+ORIGEN: IMG_6610.MOV --> DESTINO: Cirugías\2025\June
+ORIGEN: IMG_6611.HEIC --> DESTINO: Cirugías\2025\June
+ORIGEN: IMG_6612.HEIC --> DESTINO: Cirugías\2025\June
+ORIGEN: IMG_6613.MOV --> DESTINO: Consultas  Examen\2025\June
+ORIGEN: IMG_6614.MOV --> DESTINO: Consultas  Examen\2025\June
+ORIGEN: IMG_6617.MOV --> DESTINO: Desconocido\2025\June
+ORIGEN: IMG_6618.MOV --> DESTINO: Consultas  Examen\2025\June
+ORIGEN: IMG_6620.MOV --> DESTINO: Consultas  Examen\2025\June
+ORIGEN: IMG_6621.MOV --> DESTINO: Cirugías\2025\June
+ORIGEN: IMG_6622.MOV --> DESTINO: Cirugías\2025\June
+ORIGEN: IMG_6627.MOV --> DESTINO: Consultas  Examen\2025\June
+ORIGEN: IMG_6628.MOV --> DESTINO: Consultas  Examen\2025\June
+ORIGEN: IMG_6630.MOV --> DESTINO: Consultas  Examen\2025\June
+ORIGEN: IMG_6631.HEIC --> DESTINO: Personal  Selfie\2025\June
+ORIGEN: IMG_6634.MOV --> DESTINO: Personal  Selfie\2025\June
+ORIGEN: IMG_6635.MOV --> DESTINO: Consultas  Examen\2025\June
+ORIGEN: IMG_6636.MOV --> DESTINO: Especies - Perro\2025\June
+ORIGEN: IMG_6637.MOV --> DESTINO: Personal  Selfie\2025\June
+ORIGEN: IMG_6638.MOV --> DESTINO: Consultas  Examen\2025\June
+ORIGEN: IMG_6639.MOV --> DESTINO: Consultas  Examen\2025\June
+ORIGEN: IMG_6683.MOV --> DESTINO: Consultas  Examen\2025\June
+ORIGEN: IMG_6685.MOV --> DESTINO: Personal  Selfie\2025\June
+ORIGEN: IMG_6686.MOV --> DESTINO: Consultas  Examen\2025\June
+ORIGEN: IMG_6687.MOV --> DESTINO: Consultas  Examen\2025\June
+ORIGEN: IMG_6688.MOV --> DESTINO: Personal  Selfie\2025\June
+ORIGEN: IMG_6734.MOV --> DESTINO: Consultas  Examen\2025\June
+ORIGEN: IMG_6736.MOV --> DESTINO: Cirugías\2025\June
+ORIGEN: IMG_6737.MOV --> DESTINO: Cirugías\2025\June
+ORIGEN: IMG_6741.MOV --> DESTINO: Personal  Selfie\2025\June
+ORIGEN: IMG_6742.MOV --> DESTINO: Especies - Perro\2025\June
+ORIGEN: IMG_6743.MOV --> DESTINO: Especies - Perro\2025\June
+ORIGEN: IMG_6744.MOV --> DESTINO: Personal  Selfie\2025\June
+ORIGEN: IMG_6745.MOV --> DESTINO: Especies - Perro\2025\June
+ORIGEN: IMG_6818.MOV --> DESTINO: Especies - Perro\2025\June
+ORIGEN: IMG_6820.MOV --> DESTINO: Cirugías\2025\June
+ORIGEN: IMG_6823.MOV --> DESTINO: Desconocido\2025\June
+ORIGEN: IMG_6824.MOV --> DESTINO: Especies - Perro\2025\June
+ORIGEN: IMG_6831.MOV --> DESTINO: Otro\2025\June
+ORIGEN: IMG_6833.MOV --> DESTINO: Especies - Perro\2025\June
+ORIGEN: IMG_6834.MOV --> DESTINO: Desconocido\2025\June
+ORIGEN: IMG_6835.MOV --> DESTINO: Consultas  Examen\2025\June
+ORIGEN: IMG_6836.MOV --> DESTINO: Consultas  Examen\2025\June
+ORIGEN: IMG_6837.MOV --> DESTINO: Consultas  Examen\2025\June
+ORIGEN: IMG_6838.MOV --> DESTINO: Consultas  Examen\2025\June
+ORIGEN: IMG_6839.MOV --> DESTINO: Consultas  Examen\2025\June
+ORIGEN: IMG_6840.MOV --> DESTINO: Consultas  Examen\2025\June
+ORIGEN: IMG_6841.MOV --> DESTINO: Consultas  Examen\2025\June
+ORIGEN: IMG_6842.MOV --> DESTINO: Consultas  Examen\2025\June
+ORIGEN: IMG_6843.HEIC --> DESTINO: Consultas  Examen\2025\June
+ORIGEN: IMG_6845.MOV --> DESTINO: Consultas  Examen\2025\June
+ORIGEN: IMG_6847.MOV --> DESTINO: Especies - Perro\2025\June
+ORIGEN: IMG_6848.MOV --> DESTINO: Consultas  Examen\2025\June
+ORIGEN: IMG_6849.MOV --> DESTINO: Consultas  Examen\2025\June
+ORIGEN: IMG_6852.MOV --> DESTINO: Instalaciones\2025\June
+ORIGEN: IMG_6854.MOV --> DESTINO: Consultas  Examen\2025\June
+ORIGEN: IMG_6856.MOV --> DESTINO: Cirugías\2025\June
+ORIGEN: IMG_6857.HEIC --> DESTINO: Cirugías\2025\June
+ORIGEN: IMG_6858.HEIC --> DESTINO: Cirugías\2025\June
+ORIGEN: IMG_6860.MOV --> DESTINO: Cirugías\2025\June
+ORIGEN: IMG_6863.MOV --> DESTINO: Cirugías\2025\June
+ORIGEN: IMG_6867.MOV --> DESTINO: Instalaciones\2025\June
+ORIGEN: IMG_6868.MOV --> DESTINO: Instalaciones\2025\June
+ORIGEN: IMG_6870.MOV --> DESTINO: Personal  Selfie\2025\June
+ORIGEN: IMG_6871.MOV --> DESTINO: Consultas  Examen\2025\June
+ORIGEN: IMG_6886.MOV --> DESTINO: Consultas  Examen\2025\June
+ORIGEN: IMG_6889.MOV --> DESTINO: Personal  Selfie\2025\June
+ORIGEN: IMG_6893.MOV --> DESTINO: Personal  Selfie\2025\June
+ORIGEN: IMG_6894.MOV --> DESTINO: Consultas  Examen\2025\June
+ORIGEN: IMG_6897.HEIC --> DESTINO: Personal  Selfie\2025\June
+ORIGEN: IMG_6898.MOV --> DESTINO: Consultas  Examen\2025\June
+ORIGEN: IMG_6907.MOV --> DESTINO: Especies - Gato\2025\June
+ORIGEN: IMG_6910.MOV --> DESTINO: Personal  Selfie\2025\June
+ORIGEN: IMG_6911.MOV --> DESTINO: Personal  Selfie\2025\June
+ORIGEN: IMG_6969.MOV --> DESTINO: Especies - Perro\2025\July
+ORIGEN: IMG_6970.MOV --> DESTINO: Personal  Selfie\2025\July
+ORIGEN: IMG_6997.MOV --> DESTINO: Cirugías\2025\July
+ORIGEN: IMG_6998.MOV --> DESTINO: Cirugías\2025\July
+ORIGEN: IMG_6999.MOV --> DESTINO: Cirugías\2025\July
+ORIGEN: IMG_7001.MOV --> DESTINO: Cirugías\2025\July
+ORIGEN: IMG_7003.MOV --> DESTINO: Cirugías\2025\July
+ORIGEN: IMG_7004.MOV --> DESTINO: Cirugías\2025\July
+ORIGEN: IMG_7005.MOV --> DESTINO: Consultas  Examen\2025\July
+ORIGEN: IMG_7006.MOV --> DESTINO: Desconocido\2025\July
+ORIGEN: IMG_7007.MOV --> DESTINO: Desconocido\2025\July
+ORIGEN: IMG_7015.MOV --> DESTINO: Personal  Selfie\2025\July
+ORIGEN: IMG_7102.MOV --> DESTINO: Personal  Selfie\2025\July
+ORIGEN: IMG_7103.MOV --> DESTINO: Consultas  Examen\2025\July
+ORIGEN: IMG_7104.MOV --> DESTINO: Personal  Selfie\2025\July
+ORIGEN: IMG_7107.HEIC --> DESTINO: Personal  Selfie\2025\July
+ORIGEN: IMG_7108.HEIC --> DESTINO: Personal  Selfie\2025\July
+ORIGEN: IMG_7109.HEIC --> DESTINO: Personal  Selfie\2025\July
+ORIGEN: IMG_7112.MOV --> DESTINO: Especies - Perro\2025\July
+ORIGEN: IMG_7116.MOV --> DESTINO: Especies - Perro\2025\July
+ORIGEN: IMG_7125.HEIC --> DESTINO: Especies - Perro\2025\July
+ORIGEN: IMG_7162.MOV --> DESTINO: Consultas  Examen\2025\July
+ORIGEN: IMG_7168.MOV --> DESTINO: Especies - Perro\2025\July
+ORIGEN: IMG_7169.HEIC --> DESTINO: Especies - Perro\2025\July
+ORIGEN: IMG_7170.MOV --> DESTINO: Especies - Perro\2025\July
+ORIGEN: IMG_7218.MOV --> DESTINO: Consultas  Examen\2025\July
+ORIGEN: IMG_7823.MOV --> DESTINO: Personal  Selfie\2025\September
+ORIGEN: IMG_7858.MOV --> DESTINO: Especies - Gato\2025\September
+ORIGEN: IMG_8055.MOV --> DESTINO: Especies - Perro\2025\September
+ORIGEN: IMG_8067.MOV --> DESTINO: Personal  Selfie\2025\September
+ORIGEN: IMG_8068.HEIC --> DESTINO: Instalaciones\2025\September
+ORIGEN: IMG_8193.MOV --> DESTINO: Especies - Perro\2025\October
+ORIGEN: IMG_8267.MOV --> DESTINO: Consultas  Examen\2025\October
+ORIGEN: IMG_8268.MOV --> DESTINO: Consultas  Examen\2025\October
+ORIGEN: IMG_8269.MOV --> DESTINO: Consultas  Examen\2025\October
+ORIGEN: IMG_8270.MOV --> DESTINO: Personal  Selfie\2025\October
+ORIGEN: IMG_8287.HEIC --> DESTINO: Cirugías\2025\October
+ORIGEN: IMG_8288.HEIC --> DESTINO: Cirugías\2025\October
+ORIGEN: IMG_8289.HEIC --> DESTINO: Cirugías\2025\October
+ORIGEN: IMG_8290.HEIC --> DESTINO: Consultas  Examen\2025\October
+ORIGEN: IMG_8291.HEIC --> DESTINO: Cirugías\2025\October
+ORIGEN: IMG_8292.HEIC --> DESTINO: Cirugías\2025\October
+ORIGEN: IMG_8330.MOV --> DESTINO: Consultas  Examen\2025\October
+ORIGEN: IMG_8334.MOV --> DESTINO: Consultas  Examen\2025\October
+ORIGEN: IMG_8356.HEIC --> DESTINO: Consultas  Examen\2025\October
+ORIGEN: IMG_8357.HEIC --> DESTINO: Consultas  Examen\2025\October
+ORIGEN: IMG_8358.HEIC --> DESTINO: Consultas  Examen\2025\October
+ORIGEN: IMG_8359.HEIC --> DESTINO: Consultas  Examen\2025\October
+ORIGEN: IMG_8360.HEIC --> DESTINO: Cirugías\2025\October
+ORIGEN: IMG_8361.HEIC --> DESTINO: Consultas  Examen\2025\October
+ORIGEN: IMG_8362.HEIC --> DESTINO: Consultas  Examen\2025\October
+ORIGEN: IMG_8363.HEIC --> DESTINO: Consultas  Examen\2025\October
+ORIGEN: IMG_8364.HEIC --> DESTINO: Consultas  Examen\2025\October
+ORIGEN: IMG_8365.HEIC --> DESTINO: Cirugías\2025\October
+ORIGEN: IMG_8366.HEIC --> DESTINO: Consultas  Examen\2025\October
+ORIGEN: IMG_8367.HEIC --> DESTINO: Cirugías\2025\October
+ORIGEN: IMG_8368.HEIC --> DESTINO: Especies - Gato\2025\October
+ORIGEN: IMG_8369.MOV --> DESTINO: Personal  Selfie\2025\October
+ORIGEN: IMG_8371.MOV --> DESTINO: Especies - Perro\2025\October
+ORIGEN: IMG_8372.HEIC --> DESTINO: Especies - Perro\2025\October
+ORIGEN: IMG_8422.MOV --> DESTINO: Consultas  Examen\2025\October
+ORIGEN: IMG_8466.MOV --> DESTINO: Personal  Selfie\2025\October
+ORIGEN: IMG_8606.MOV --> DESTINO: Consultas  Examen\2025\November
+ORIGEN: IMG_8615.MOV --> DESTINO: Especies - Gato\2025\November
+ORIGEN: IMG_8616.MOV --> DESTINO: Consultas  Examen\2025\November
+ORIGEN: IMG_8617.MOV --> DESTINO: Consultas  Examen\2025\November
+ORIGEN: IMG_8619.MOV --> DESTINO: Consultas  Examen\2025\November
+ORIGEN: IMG_8620.MOV --> DESTINO: Instalaciones\2025\November
+ORIGEN: IMG_8633.MOV --> DESTINO: Cirugías\2025\November
+ORIGEN: IMG_8634.MOV --> DESTINO: Cirugías\2025\November
+ORIGEN: IMG_8635.MOV --> DESTINO: Cirugías\2025\November
+ORIGEN: IMG_8638.MOV --> DESTINO: Cirugías\2025\November
+ORIGEN: IMG_8639.MOV --> DESTINO: Cirugías\2025\November
+ORIGEN: IMG_E2211.MOV --> DESTINO: Consultas  Examen\2024\November
+ORIGEN: IMG_E2594.MOV --> DESTINO: Personal  Selfie\2024\November
+ORIGEN: IMG_E2671.MOV --> DESTINO: Especies - Perro\2024\November
+ORIGEN: IMG_E2829.MOV --> DESTINO: Consultas  Examen\2024\November
+ORIGEN: IMG_E2861.MOV --> DESTINO: Promocional\2024\November
+ORIGEN: IMG_E2862.MOV --> DESTINO: Personal  Selfie\2024\November
+ORIGEN: IMG_E2863.MOV --> DESTINO: Consultas  Examen\2024\November
+ORIGEN: IMG_E3061.MOV --> DESTINO: Consultas  Examen\2024\November
+ORIGEN: IMG_E3709.MOV --> DESTINO: Consultas  Examen\2025\April
+ORIGEN: IMG_E4187.HEIC --> DESTINO: Personal  Selfie\2025\September
+ORIGEN: IMG_E4256.HEIC --> DESTINO: Personal  Selfie\2025\January
+ORIGEN: IMG_E4626.MOV --> DESTINO: Personal  Selfie\2025\February
+ORIGEN: IMG_E4904.MOV --> DESTINO: Consultas  Examen\2025\March
+ORIGEN: IMG_E5739.MOV --> DESTINO: Personal  Selfie\2025\April
+ORIGEN: IMG_E5741.HEIC --> DESTINO: Personal  Selfie\2025\April
+ORIGEN: IMG_E5741.MOV --> DESTINO: Personal  Selfie\2025\April
+ORIGEN: IMG_E5794.JPG --> DESTINO: Personal  Selfie\2025\April
+ORIGEN: IMG_E5921.HEIC --> DESTINO: Personal  Selfie\2025\April
+ORIGEN: IMG_E6090.HEIC --> DESTINO: Cirugías\2025\May
+ORIGEN: IMG_E6373.MOV --> DESTINO: Consultas  Examen\2025\May
+ORIGEN: IMG_E6395.MOV --> DESTINO: Consultas  Examen\2025\May
+ORIGEN: IMG_E6411.MOV --> DESTINO: Consultas  Examen\2025\May
+ORIGEN: IMG_E6588.JPG --> DESTINO: Especies - Perro\2025\June
+ORIGEN: IMG_E6589.JPG --> DESTINO: Especies - Perro\2025\June
+ORIGEN: IMG_E6590.JPG --> DESTINO: Especies - Perro\2025\June
+ORIGEN: IMG_E6820.MOV --> DESTINO: Consultas  Examen\2025\June
+ORIGEN: IMG_E6848.MOV --> DESTINO: Consultas  Examen\2025\June
+ORIGEN: IMG_E6870.MOV --> DESTINO: Instalaciones\2025\June
+ORIGEN: IMG_E6889.MOV --> DESTINO: Consultas  Examen\2025\June
+ORIGEN: IMG_E6893.MOV --> DESTINO: Personal  Selfie\2025\June
+ORIGEN: IMG_E6894.MOV --> DESTINO: Consultas  Examen\2025\June
+ORIGEN: IMG_E6898.MOV --> DESTINO: Consultas  Examen\2025\June
+ORIGEN: IMG_E6903.MOV --> DESTINO: Especies - Perro\2025\June
+ORIGEN: IMG_E6907.MOV --> DESTINO: Personal  Selfie\2025\June
+ORIGEN: IMG_E6910.MOV --> DESTINO: Personal  Selfie\2025\June
+ORIGEN: IMG_E6911.MOV --> DESTINO: Personal  Selfie\2025\June
+ORIGEN: IMG_E7108.HEIC --> DESTINO: Personal  Selfie\2025\July
+ORIGEN: IMG_E7109.HEIC --> DESTINO: Personal  Selfie\2025\July
+ORIGEN: IMG_E7823.MOV --> DESTINO: Otro\2025\September
+ORIGEN: IMG_E8067.MOV --> DESTINO: Personal  Selfie\2025\September
+ORIGEN: JCPX2419.JPG --> DESTINO: Personal  Selfie\2025\June
+ORIGEN: KADU8311.JPG --> DESTINO: Consultas  Examen\2025\November
+ORIGEN: KFSQ6820.HEIC --> DESTINO: Personal  Selfie\2025\September
+ORIGEN: LVOE0075.MOV --> DESTINO: Consultas  Examen\2024\November
+ORIGEN: MIII6844.JPG --> DESTINO: Especies - Perro\2025\November
+ORIGEN: MKTC3257.MOV --> DESTINO: Consultas  Examen\2024\November
+ORIGEN: NAGN1326.MOV --> DESTINO: Consultas  Examen\2024\November
+ORIGEN: NXDU2462.MP4 --> DESTINO: Consultas  Examen\2024\December
+ORIGEN: OWVY7151.MOV --> DESTINO: Cirugías\2024\November
+ORIGEN: PHNT2049.MOV --> DESTINO: Consultas  Examen\2024\November
+ORIGEN: RBOHE5082.MOV --> DESTINO: Personal  Selfie\2025\June
+ORIGEN: UFEQ3828.MOV --> DESTINO: Consultas  Examen\2024\November
+ORIGEN: WGPX2664.MP4 --> DESTINO: Personal  Selfie\2025\June
+ORIGEN: WUKP8873.MOV --> DESTINO: Consultas  Examen\2024\November
+ORIGEN: WXNR5508.MP4 --> DESTINO: Otro\2024\November
