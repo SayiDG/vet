@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Consulta General a Domicilio",
+    "slug": "consulta-general",
+    "description": "Examen clínico completo para perros y gatos en la comodidad de tu hogar. Incluye evaluación física, recomendaciones y plan de tratamiento.",
+    "price": 60000,
+    "category": "consultas",
+    "image": "assets/img/service-consulta.png",
+    "tag": "⭐ Más Solicitado",
+    "stock": 15,
+    "popular": true
+  },
+  {
+    "id": 2,
+    "name": "Plan Vacunación Gatos",
+    "slug": "vacunacion-gatos",
+    "description": "Triple Felina completa. Protege a tu gato contra Panleucopenia, Rinotraqueítis y Calicivirus. Aplicación segura en tu casa.",
+    "price": 75000,
+    "category": "vacunacion",
+    "image": "assets/img/service-gatos.png",
+    "tag": "🐱 Gatos",
+    "stock": 10,
+    "popular": true
+  },
+  {
+    "id": 3,
+    "name": "Plan Vacunación Perros",
+    "slug": "vacunacion-perros",
+    "description": "Polivalente canina (Moquillo, Parvovirus, Hepatitis, Parainfluenza, Leptospira). Tu perro protegido sin salir de casa.",
+    "price": 70000,
+    "category": "vacunacion",
+    "image": "assets/img/service-perros.png",
+    "tag": "🐕 Perros",
+    "stock": 12,
+    "popular": true
+  },
+  {
+    "id": 4,
+    "name": "Vacuna Antirrábica",
+    "slug": "antirrabica",
+    "description": "Vacunación antirrábica obligatoria para perros y gatos. Certificado oficial incluido. Aplicación rápida y sin estrés.",
+    "price": 30000,
+    "category": "vacunacion",
+    "image": "assets/img/service-vacunacion.png",
+    "tag": "📋 Obligatoria",
+    "stock": 20,
+    "popular": false
+  },
+  {
+    "id": 5,
+    "name": "Desparasitación",
+    "slug": "desparasitacion",
+    "description": "Desparasitación interna y externa completa. Protocolo adaptado a la edad, peso y especie de tu mascota.",
+    "price": 35000,
+    "category": "preventivo",
+    "image": "assets/img/service-desparasitacion.png",
+    "tag": "🛡️ Preventivo",
+    "stock": 18,
+    "popular": false
+  },
+  {
+    "id": 6,
+    "name": "Control Preventivo",
+    "slug": "control-preventivo",
+    "description": "Chequeo completo anual: peso, temperatura, auscultación, revisión dental, articular y dermatológica. Ideal para detectar problemas a tiempo.",
+    "price": 50000,
+    "category": "preventivo",
+    "image": "assets/img/about-vet.png",
+    "tag": "🩺 Recomendado",
+    "stock": 8,
+    "popular": true
+  },
+  {
+    "id": 7,
+    "name": "Toma de Muestras",
+    "slug": "toma-muestras",
+    "description": "Hemograma, química sanguínea, uroanálisis y más. Tomamos las muestras en tu casa y te entregamos resultados en 24-48h.",
+    "price": 45000,
+    "category": "laboratorio",
+    "image": "assets/img/service-laboratorio.png",
+    "tag": "🔬 Laboratorio",
+    "stock": 10,
+    "popular": false
+  },
+  {
+    "id": 8,
+    "name": "Certificado de Salud",
+    "slug": "certificado-salud",
+    "description": "Certificado veterinario oficial para viajes, trámites o adopción. Incluye examen clínico completo.",
+    "price": 40000,
+    "category": "consultas",
+    "image": "assets/img/service-certificado.png",
+    "tag": "✈️ Viajes",
+    "stock": 15,
+    "popular": false
+  }
+]
